@@ -2,6 +2,9 @@
 
 Show matching bracket positions on the scrollbar.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [bracket-matcher](https://github.com/lumine-code/bracket-matcher) and [scrollmap](https://github.com/lumine-code/scrollmap).
+
 ## Installation
 
 To install `scrollmap-brackets` search for [scrollmap-brackets](https://web.pulsar-edit.dev/packages/scrollmap-brackets) in the Install pane of the Pulsar settings or run `ppm install scrollmap-brackets`. Alternatively, you can run `ppm install asiloisad-pulsar/scrollmap-brackets` to install a package directly from the GitHub repository.
